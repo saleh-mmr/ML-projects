@@ -46,3 +46,11 @@ The best hyperparameters are selected based on these scores, and the confusion m
    ```bash
    git clone https://github.com/saleh-mmr/decision-tree-iris.git
    cd decision-tree-iris
+
+2. Install dependencies:  
+   ```bash
+   pip install pandas scikit-learn matplotlib
+
+3. Run the script:
+   ```bash
+   DecisionTree_Iris.ipynb
