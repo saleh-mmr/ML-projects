@@ -53,4 +53,4 @@ The best hyperparameters are selected based on these scores, and the confusion m
 
 3. Run the script:
    ```bash
-   DecisionTree_Iris.ipynb
+   jupyter notebook DecisionTree_Iris.ipynb
