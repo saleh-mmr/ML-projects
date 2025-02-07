@@ -24,7 +24,7 @@ To run the notebook, install the required dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 
 ## Results
 
