@@ -25,7 +25,8 @@ To run the notebook, install the required dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-# Results
+
+## Results
 
 - The optimal number of clusters for K-Means was determined using inertia and silhouette analysis.  
 - Agglomerative clustering is set up to test different linkage methods.  
