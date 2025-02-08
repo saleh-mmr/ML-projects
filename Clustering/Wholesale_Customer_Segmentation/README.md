@@ -26,6 +26,10 @@ To run the notebook, install the required dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 78ab06b (DBSCAN on Wholesale Customers implemented)
 ## Results
 
 - The optimal number of clusters for K-Means was determined using inertia and silhouette analysis.  
